@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:"Roboto",sans-serif}.App{height:100vh;width:100vw}.App,.graphContainer{display:flex;align-items:center;justify-content:center}.graphContainer{position:relative;width:700px}.graph{align-self:center}@media(max-width:560px){.graphContainer{flex-direction:column;max-height:1000px}}
+/*# sourceMappingURL=main.fe694c67.chunk.css.map */

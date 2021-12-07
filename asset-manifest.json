@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Goosfraba/static/css/main.fe694c67.chunk.css",
+    "main.js": "/Goosfraba/static/js/main.d612cd45.chunk.js",
+    "main.js.map": "/Goosfraba/static/js/main.d612cd45.chunk.js.map",
+    "runtime-main.js": "/Goosfraba/static/js/runtime-main.199971e6.js",
+    "runtime-main.js.map": "/Goosfraba/static/js/runtime-main.199971e6.js.map",
+    "static/js/2.01b81e38.chunk.js": "/Goosfraba/static/js/2.01b81e38.chunk.js",
+    "static/js/2.01b81e38.chunk.js.map": "/Goosfraba/static/js/2.01b81e38.chunk.js.map",
+    "index.html": "/Goosfraba/index.html",
+    "static/css/main.fe694c67.chunk.css.map": "/Goosfraba/static/css/main.fe694c67.chunk.css.map",
+    "static/js/2.01b81e38.chunk.js.LICENSE.txt": "/Goosfraba/static/js/2.01b81e38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.199971e6.js",
+    "static/js/2.01b81e38.chunk.js",
+    "static/css/main.fe694c67.chunk.css",
+    "static/js/main.d612cd45.chunk.js"
+  ]
+}

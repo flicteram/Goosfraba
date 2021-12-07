@@ -7,3 +7,6 @@
     Then I turned that object in to an array of objects because I needed to itterate through it in order to display the data on the chart. 
     Another challenging part of this test was understanding how VISX really works
     , making the histogram responsive and adding hover functionality which shows data about each month.
+    
+    
+    Live: https://flicteram.github.io/Goosfraba/
